@@ -1,0 +1,25 @@
+id: I9CD8646A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:09:28.638457'
+last_modified: '2022-06-11T13:09:28.638565'
+parser: null
+source_metadata:
+  title: Tsangpa Gyare Yeshe Dorje
+  language: en
+  description: 'Texts by and about Tsangpa Gyare Yeshe Dorje (gtsang pa rgya ras ye
+    shes rdo rje, 1161–1211), the founder of Druk Monastery:'
+  volume:
+    fE244:
+      title: The Fourfold 'Manam' Refuge
+      base_file: fE244.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
